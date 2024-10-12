@@ -1,7 +1,7 @@
-Hi there 👋 I'm Gayathri Kumar!
+Hi there 👋 I'm Ashok Shankarappa!
 
 
-I'm a ☁️Cloud and ⚙️DevOps Engineer👩‍💻 passionate about creating scalable and secure cloud solutions.
+I'm a ☁️Azure adminstrator 👩‍💻 passionate about creating scalable and secure cloud solutions.
 
 🔧 Skills 
 - ☁️**Cloud:** Azure, AWS
