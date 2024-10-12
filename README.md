@@ -1,2 +1,0 @@
-# Ashok-Shankarappa
-About.me
