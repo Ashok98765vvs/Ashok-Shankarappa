@@ -58,6 +58,7 @@ enhance the speed of environment setup.
 
 ## 📜 Certifications
 Docker for Beginners: a Hands-On Practice (https://www.udemy.com/certificate/UC-2e2b33de-ef7b-4d9d-8666-f215308a5fe3/)
+
 Python Data Structures & Algorithms: Ace Coding (https://www.udemy.com/certificate/UC-b32ca50a-8d57-472b-a32d-48a92c1c5366/)
 
 
