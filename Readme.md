@@ -63,6 +63,8 @@ Python Data Structures & Algorithms: Ace Coding (https://www.udemy.com/certifica
 
 Web Performance Bootcamp: Mastering Speed Techniques  (https://www.udemy.com/certificate/UC-09143e4e-d619-4278-9e53-eeed340b4a89/)
 
+Networking concepts explained in a simple way, with many engaging (https://www.udemy.com/certificate/UC-a96bec1a-60dd-4166-b215-aad9eb0c9780/)
+
 
 📫 Connect with Me
 - **LinkedIn:** Ashok Shankarappa(https://www.linkedin.com/in/ashok-s1/)
