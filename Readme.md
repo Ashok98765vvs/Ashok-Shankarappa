@@ -61,6 +61,8 @@ Docker for Beginners: a Hands-On Practice (https://www.udemy.com/certificate/UC-
 
 Python Data Structures & Algorithms: Ace Coding (https://www.udemy.com/certificate/UC-b32ca50a-8d57-472b-a32d-48a92c1c5366/)
 
+Web Performance Bootcamp: Mastering Speed Techniques  (https://www.udemy.com/certificate/UC-09143e4e-d619-4278-9e53-eeed340b4a89/)
+
 
 📫 Connect with Me
 - **LinkedIn:** Ashok Shankarappa(https://www.linkedin.com/in/ashok-s1/)
