@@ -43,11 +43,13 @@
 <!-------------------------------------------------------------Licenses & Certification	---------------------------------------->
 <h2>Licenses & Certifications</h2>
   
-  * [Azure Fundamentals (AZ900)]
-  * [Azure Developer Associate (AZ204)]
-  * [Full Stack Web Development with React Specialization]
-  * [Blockchain Specialization ]
-  * [Introduction to Git & Github ]
+* Docker for Beginners: a Hands-On Practice (https://www.udemy.com/certificate/UC-2e2b33de-ef7b-4d9d-8666-f215308a5fe3/)
+
+* Python Data Structures & Algorithms: Ace Coding (https://www.udemy.com/certificate/UC-b32ca50a-8d57-472b-a32d-48a92c1c5366/)
+
+* Web Performance Bootcamp: Mastering Speed Techniques  (https://www.udemy.com/certificate/UC-09143e4e-d619-4278-9e53-eeed340b4a89/)
+
+* Networking concepts explained in a simple way, with many engaging (https://www.udemy.com/certificate/UC-a96bec1a-60dd-4166-b215-aad9eb0c9780/)
 
 <!-----------------------------------------------------GitHub Stats ------------------------------------------------------>
 <br>
@@ -118,15 +120,8 @@ ensuring high availability and proactive issue resolution.
 enhance the speed of environment setup. 
 
 
-## 📜 Certifications
-Docker for Beginners: a Hands-On Practice (https://www.udemy.com/certificate/UC-2e2b33de-ef7b-4d9d-8666-f215308a5fe3/)
-
-Python Data Structures & Algorithms: Ace Coding (https://www.udemy.com/certificate/UC-b32ca50a-8d57-472b-a32d-48a92c1c5366/)
-
-Web Performance Bootcamp: Mastering Speed Techniques  (https://www.udemy.com/certificate/UC-09143e4e-d619-4278-9e53-eeed340b4a89/)
-
-Networking concepts explained in a simple way, with many engaging (https://www.udemy.com/certificate/UC-a96bec1a-60dd-4166-b215-aad9eb0c9780/)
 
 
-📫 Connect with Me
-- **LinkedIn:** Ashok Shankarappa(https://www.linkedin.com/in/ashok-s1/)
+
+
+
