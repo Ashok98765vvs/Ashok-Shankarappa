@@ -1,16 +1,16 @@
-<!-------------------------------------------------------Hi there, I'm Ashok ------------------------------>
+<!-------------------------------------------------------Hi there, I'm Ashok Shankarappa ------------------------------>
 <div align="center">
   <h1>Hi there, I'm <a href="https://www.linkedin.com/in/ashok-s1/" target="_blank">Ashok s</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 <div align="center">
-  <h3>💻 Computer Science Graduate Student | :earth_asia: Denton, Texas <h3>
+  <h3>💻 Computer Science Graduate Student | :earth_asia: montogomery, Alabama <h3>
 </div>
 
 <!----------------------------------------------------Social links------------------------------------------->
 
 <div align="center">
 
-[![Twitter Link](https://img.shields.io/twitter/follow/AK_Trader_55?color=1DA1F2&label=%40arun664__&logo=Twitter&style=flat)][(https://x.com/AK_Trader_55)]
+[![Twitter Link](https://img.shields.io/twitter/follow/AK_Trader_55?color=1DA1F2&label=%40AK_Trader_55&logo=Twitter&style=flat)][(https://x.com/AK_Trader_55)]
 [![LinkedIn Link](https://img.shields.io/badge/linkedin/in/arun664%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white")] [(https://www.linkedin.com/in/ashok-s1/)]
 [![Instagram Link](https://img.shields.io/badge/instagram.com/arun664__%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/arun664__/)
 [![Medium link](https://img.shields.io/badge/-medium.com/@arun664-black.svg?&style=flat&logo=medium&logoColor=white)](https://medium.com/@arun664)
