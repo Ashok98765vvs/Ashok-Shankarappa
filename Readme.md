@@ -56,8 +56,8 @@
 <details>
   <summary>:zap: <b>Github Stats</b></summary>
 
-  [![Ashok's github stats](https://github-readme-stats.vercel.app/api?username=arun664&show_icons=true&theme=react)](https://github.com/arun664/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arun664&langs_count=8&layout=compact&theme=react)](https://github.com/arun664/github-readme-stats)
+  [![Ashok's github stats](https://github-readme-stats.vercel.app/api?username=Ashok98765vvs&show_icons=true&theme=react)](https://github.com/arun664/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashok98765vvs&langs_count=8&layout=compact&theme=react)](https://github.com/arun664/github-readme-stats)
 
 </details>
 <br>
