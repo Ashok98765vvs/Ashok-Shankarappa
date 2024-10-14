@@ -3,7 +3,7 @@
   <h1>Hi there, I'm <a href="https://www.linkedin.com/in/ashok-s1/" target="_blank">Ashok s</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 <div align="center">
-  <h3>💻 Computer Science Graduate Student | :earth_asia: montogomery, Alabama <h3>
+  <h3>💻 Computer Science Graduate Student | :earth_asia: Montogomery, Alabama <h3>
 </div>
 
 <!----------------------------------------------------Social links------------------------------------------->
@@ -54,7 +54,7 @@
 <details>
   <summary>:zap: <b>Github Stats</b></summary>
 
-  [![Arun Kumar M's github stats](https://github-readme-stats.vercel.app/api?username=arun664&show_icons=true&theme=react)](https://github.com/arun664/github-readme-stats)
+  [![Ashok's github stats](https://github-readme-stats.vercel.app/api?username=arun664&show_icons=true&theme=react)](https://github.com/arun664/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arun664&langs_count=8&layout=compact&theme=react)](https://github.com/arun664/github-readme-stats)
 
 </details>
