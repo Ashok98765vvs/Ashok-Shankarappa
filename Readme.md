@@ -10,9 +10,9 @@
 
 <div align="center">
 
-[![Twitter Link](https://img.shields.io/twitter/follow/AK_Trader_55?color=1DA1F2&label=%40AK_Trader_55&logo=Twitter&style=flat)](https://x.com/AK_Trader_55)
+[![Twitter Link](https://img.shields.io/twitter/follow/AK_Trader_55?color=1DA1F2&label=%40AK_Trader_55&logo=Twitter&style=flat)]  (https://x.com/AK_Trader_55)
 [![LinkedIn Link](https://img.shields.io/badge/linkedin/in/AK_Trader_55%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white")] (https://www.linkedin.com/in/ashok-s1/)
-[![Instagram Link](https://img.shields.io/badge/instagram.com/AK_Trader_55%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/x_infinityak_x/)
+[![Instagram Link](https://img.shields.io/badge/instagram.com/AK_Trader_55%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)]  (https://www.instagram.com/x_infinityak_x/)
 </div>
 
 
