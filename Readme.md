@@ -12,8 +12,7 @@
 
 [![Twitter Link](https://img.shields.io/twitter/follow/AK_Trader_55?color=1DA1F2&label=%40AK_Trader_55&logo=Twitter&style=flat)][(https://x.com/AK_Trader_55)]
 [![LinkedIn Link](https://img.shields.io/badge/linkedin/in/AK_Trader_55%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white")] [(https://www.linkedin.com/in/ashok-s1/)]
-[![Instagram Link](https://img.shields.io/badge/instagram.com/AK_Trader_55%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/arun664__/)
-[![Medium link](https://img.shields.io/badge/-medium.com/@AK_Trader_55-black.svg?&style=flat&logo=medium&logoColor=white)](https://medium.com/@arun664)
+[![Instagram Link](https://img.shields.io/badge/instagram.com/AK_Trader_55%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)][(https://www.instagram.com/x_infinityak_x/)]
 </div>
 
 
@@ -44,11 +43,11 @@
 <!-------------------------------------------------------------Licenses & Certification	---------------------------------------->
 <h2>Licenses & Certifications</h2>
   
-  * [Azure Fundamentals (AZ900)](https://learn.microsoft.com/api/credentials/share/en-us/arun664/AA39FC7D78554466?sharingId=1EA4B35BD34F21E3)
-  * [Azure Developer Associate (AZ204)](https://learn.microsoft.com/api/credentials/share/en-us/arun664/B73875A6309E2A0C?sharingId=1EA4B35BD34F21E3)
-  * [Full Stack Web Development with React Specialization](https://coursera.org/share/f1565c994ba0266781db8a68d28a5eb0)
-  * [Blockchain Specialization ](https://coursera.org/share/ad56e7fc6a410e86b73039ac42eabd81)
-  * [Introduction to Git & Github ](https://coursera.org/share/f462e4d8faec4bc4c08ed73791bd5993)
+  * [Azure Fundamentals (AZ900)]
+  * [Azure Developer Associate (AZ204)]
+  * [Full Stack Web Development with React Specialization]
+  * [Blockchain Specialization ]
+  * [Introduction to Git & Github ]
 
 <!-----------------------------------------------------GitHub Stats ------------------------------------------------------>
 <br>
